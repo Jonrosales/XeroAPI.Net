@@ -15,7 +15,7 @@ namespace XeroApi.Model
 
         public string ContactStatus { get; set; }
         
-        public string Account Number { get; set; }
+        public string AccountNumber { get; set; }
         
         public string Name { get; set; }
 
